@@ -18,5 +18,13 @@
     "gulp-sourcemaps": "^2.6.1",
     "imagemin-pngquant": "^5.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkoq/land_1_thx_page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexkoq/land_1_thx_page/issues"
+  },
+  "homepage": "https://github.com/alexkoq/land_1_thx_page#readme",
   "description": ""
 }
